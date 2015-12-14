@@ -6,7 +6,6 @@
   xmlns="http://www.w3.org/ns/widgets">
 
   <icon src="icon.png" />
-  <splash src="splash.png" />
   
   <name>ERG</name>
   <description>ERG Cat Canyon Work Request System</description>
