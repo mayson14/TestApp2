@@ -6,10 +6,11 @@
   xmlns="http://www.w3.org/ns/widgets">
 
   <icon src="icon.png" />
+  <splash src="splash.png" />
   
-  <name>TestApp2</name>
-  <description>A blank project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone.</description>
-  <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
+  <name>ERG</name>
+  <description>ERG Cat Canyon Work Request System</description>
+  <author email="mradke@ergresources.com">Mason Radke</author>
   <content src="index.html" />
   <access origin="*" />
 
